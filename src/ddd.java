@@ -13,6 +13,8 @@ public class ddd {
                 temp+=each.charAt(i);
 //updated
                 //sdfsdfsdfsdf
+
+                //sdfsdf
             }
         }
 
