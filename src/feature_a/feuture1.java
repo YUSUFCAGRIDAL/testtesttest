@@ -4,5 +4,7 @@ public class feuture1 {
     //test case 2
 
     //writing smoke test...
-        //some more lines
+    //some more lines
+    //screenshot failure
+
 }
