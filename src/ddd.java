@@ -12,6 +12,7 @@ public class ddd {
             for (String each : strs) {
                 temp+=each.charAt(i);
 //updated
+                //sdfsdfsdfsdf
             }
         }
 
