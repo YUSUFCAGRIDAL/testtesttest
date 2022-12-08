@@ -11,7 +11,7 @@ public class ddd {
         for (int i = 0; i <= k; i++) {
             for (String each : strs) {
                 temp+=each.charAt(i);
-
+//updated
             }
         }
 
